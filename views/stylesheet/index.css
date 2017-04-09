@@ -1,0 +1,35 @@
+body{
+  font-family: calibri;
+}
+
+
+#playground{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
+  height: 100%;
+  vertical-align: middle;
+  background-color: lightgrey;
+}
+
+
+
+h1{
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  text-align: center;
+}
+
+#container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  text-align: center;
+}
+
+#WeatherInfo{
+  width: 50%;
+  text-align: center;
+  margin:auto;
+}
